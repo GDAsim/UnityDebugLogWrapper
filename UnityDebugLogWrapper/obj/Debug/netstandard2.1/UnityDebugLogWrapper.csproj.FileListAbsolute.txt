@@ -1,0 +1,10 @@
+D:\Github\GDAsim\UnityDebugLogWrapper\UnityDebugLogWrapper\bin\Debug\netstandard2.1\UnityDebugLogWrapper.deps.json
+D:\Github\GDAsim\UnityDebugLogWrapper\UnityDebugLogWrapper\bin\Debug\netstandard2.1\UnityDebugLogWrapper.dll
+D:\Github\GDAsim\UnityDebugLogWrapper\UnityDebugLogWrapper\bin\Debug\netstandard2.1\UnityDebugLogWrapper.pdb
+D:\Github\GDAsim\UnityDebugLogWrapper\UnityDebugLogWrapper\obj\Debug\netstandard2.1\UnityDebugLogWrapper.csproj.AssemblyReference.cache
+D:\Github\GDAsim\UnityDebugLogWrapper\UnityDebugLogWrapper\obj\Debug\netstandard2.1\UnityDebugLogWrapper.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\GDAsim\UnityDebugLogWrapper\UnityDebugLogWrapper\obj\Debug\netstandard2.1\UnityDebugLogWrapper.AssemblyInfoInputs.cache
+D:\Github\GDAsim\UnityDebugLogWrapper\UnityDebugLogWrapper\obj\Debug\netstandard2.1\UnityDebugLogWrapper.AssemblyInfo.cs
+D:\Github\GDAsim\UnityDebugLogWrapper\UnityDebugLogWrapper\obj\Debug\netstandard2.1\UnityDebugLogWrapper.csproj.CoreCompileInputs.cache
+D:\Github\GDAsim\UnityDebugLogWrapper\UnityDebugLogWrapper\obj\Debug\netstandard2.1\UnityDebugLogWrapper.dll
+D:\Github\GDAsim\UnityDebugLogWrapper\UnityDebugLogWrapper\obj\Debug\netstandard2.1\UnityDebugLogWrapper.pdb
